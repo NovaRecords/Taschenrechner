@@ -33,7 +33,7 @@ body {
     width: calc(100% - 10px);
     height: 12vh;
     margin-bottom: 2vh;
-    font-size: min(10vh, 64px);
+    font-size: min(7vh, 48px);
     text-align: right;
     padding: 5px;
     border: none;

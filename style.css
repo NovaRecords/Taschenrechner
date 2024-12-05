@@ -50,7 +50,7 @@ body {
 
 button {
     padding: 0;
-    font-size: min(5vh, 28px);
+    font-size: min(5vh, 30px);
     border: none;
     border-radius: 5px;
     background-color: #FFD700;
